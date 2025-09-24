@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/chevinjeon/Documents/COMSC-210-5470/Lab14/output/colorclass'
+relocations:     []
+...
